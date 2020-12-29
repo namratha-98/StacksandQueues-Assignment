@@ -36,7 +36,7 @@ uint32_t queue_empty(Queue *q);
 Queue* queue_add(Queue *q, int32_t element, Queue_Result *res);
 Queue* queue_delete(Queue *q,Queue_Result *res);
 
-#endif
+
 
 
 
