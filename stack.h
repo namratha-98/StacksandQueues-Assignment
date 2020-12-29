@@ -30,7 +30,6 @@ Stack* stack_push(Stack *stk,char data,Stack_Result * res);
 Stack* stack_pop(Stack *stk,Stack_Result *res);
 Stack* stack_peek(Stack *stk,Stack_Result *res);
 
-#endif
 
 
 
